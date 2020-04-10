@@ -1,0 +1,20 @@
+.header {
+    background-color: #84a9ac;
+    background-image: #cae8d5;
+   
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    width: 500px;
+    margin-top: 50px;
+    font-size: 400%;
+    color: white;
+    margin-left: 100px;
+}
+
+.pic {
+    width: 400px;
+    /* position: absolute;
+    z-index: 1; */
+}
